@@ -31,3 +31,10 @@ nginx-static/
 - docker compose restart — перезапускает контейнер (после правки nginx.conf).
 
 - docker compose down — останавливает и удаляет контейнер.
+
+
+---**ССЫЛКА НА ВИДЕО**
+
+https://disk.yandex.ru/i/L3ZrS7AuWJ_aiw 
+
+(В прикрепленном видео не показан момент запуска самого приложения Docker Desktop)
